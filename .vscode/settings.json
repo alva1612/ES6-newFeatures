@@ -1,11 +1,11 @@
-{
+/*{
  "workbench.colorCustomizations" : {
-        "editor.background" : "#29292a",
+        "editor.background" : "#2b2b2c",
         "terminal.background": "#29292a",
         "panel.background": "#2e2e30",
         "editorGroupHeader.tabsBackground": "#2e2e30",
         "activityBar.background": "#2e2e30",
         "activityBar.activeBackground": "#38383b",
-
  }   
 }
+*/
